@@ -1,6 +1,0 @@
-package overload;
-
-public class Cat {
-	public String type;
-	public String name;
-}
