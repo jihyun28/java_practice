@@ -1,0 +1,14 @@
+package overload;
+
+public class Cat {
+	public String type;
+	public String name;
+	
+	public void call() {
+		System.out.println("야옹아 이리와");
+	}
+	
+	public void call(String s) {
+		System.out.println(s + "아 이리와");
+	}
+}

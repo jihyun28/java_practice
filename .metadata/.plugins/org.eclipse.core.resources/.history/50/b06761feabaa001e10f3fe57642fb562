@@ -1,0 +1,23 @@
+package day03;
+
+public class BasketballPlayerMain {
+	
+	public static void main(String[] args) {
+		
+		BasketballPlayer p1 = new BasketballPlayer();
+		p1.name = "a";
+		p1.height = 1;
+		p1.age = 1;
+		p1.salary = 1;
+		
+		BasketballPlayer p2 = new BasketballPlayer();
+		p2.name = "b";
+		p2.height = 2;
+		p2.age = 2;
+		p2.salary = 2;
+		
+		showInfo(p1);
+		showInfo(p2);
+	}
+
+}

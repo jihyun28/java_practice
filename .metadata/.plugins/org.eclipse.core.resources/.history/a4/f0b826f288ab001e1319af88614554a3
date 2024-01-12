@@ -1,0 +1,12 @@
+package overload;
+
+public class HumanMain {
+
+	public static void main(String[] args) {
+		// void 생성자
+		Human h1 = new Human();
+		
+		// (String, int) 생성자
+		Human h2 = new Human("가", 23);
+	}
+}

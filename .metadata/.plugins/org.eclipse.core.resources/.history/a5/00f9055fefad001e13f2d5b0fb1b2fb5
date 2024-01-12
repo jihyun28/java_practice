@@ -1,0 +1,10 @@
+package encapsulation.good;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// 12월 31일같은 없는 날짜를 걸러주는지 체크
+		MyBirthday b = new MyBirthday(2024. 12, 50);
+		b.showDateInfo();
+	}
+}

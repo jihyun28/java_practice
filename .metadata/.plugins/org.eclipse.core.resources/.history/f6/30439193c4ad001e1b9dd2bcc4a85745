@@ -1,0 +1,14 @@
+package super_;
+
+public class Airplane {
+	public String planeCode;
+	protected int speed;
+	public int gas;
+	
+	// 속도0, 연료100으로 고정, 편명만 입력받는 생성자 정의
+	public Airplane(String planeCode) {
+		this.planeCode = planeCode;
+		this.speed = 0;
+		this.gas = 100;
+	}
+}
