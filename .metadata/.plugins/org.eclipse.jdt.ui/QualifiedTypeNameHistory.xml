@@ -9,4 +9,8 @@
     <fullyQualifiedTypeName name="singleton.Singleton"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="abstract_noabs.PopupStore"/>
+    <fullyQualifiedTypeName name="abstract_abs.PopupStore"/>
+    <fullyQualifiedTypeName name="templatemethod.KoreanLotto"/>
+    <fullyQualifiedTypeName name="interface_.TVRemoteController"/>
+    <fullyQualifiedTypeName name="interface_.RobotCleanerRemoteController"/>
 </qualifiedTypeNameHistroy>
