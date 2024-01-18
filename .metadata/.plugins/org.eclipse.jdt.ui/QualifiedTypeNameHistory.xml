@@ -13,4 +13,7 @@
     <fullyQualifiedTypeName name="templatemethod.KoreanLotto"/>
     <fullyQualifiedTypeName name="interface_.TVRemoteController"/>
     <fullyQualifiedTypeName name="interface_.RobotCleanerRemoteController"/>
+    <fullyQualifiedTypeName name="exception.custom.BalanceInsufficientException"/>
+    <fullyQualifiedTypeName name="exception.custom.DepositMinusMoneyException"/>
+    <fullyQualifiedTypeName name="api.lang.object.ObjectInformation"/>
 </qualifiedTypeNameHistroy>
