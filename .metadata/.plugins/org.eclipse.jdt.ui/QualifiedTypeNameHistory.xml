@@ -16,4 +16,6 @@
     <fullyQualifiedTypeName name="exception.custom.BalanceInsufficientException"/>
     <fullyQualifiedTypeName name="exception.custom.DepositMinusMoneyException"/>
     <fullyQualifiedTypeName name="api.lang.object.ObjectInformation"/>
+    <fullyQualifiedTypeName name="example.thread3.MiddleChef"/>
+    <fullyQualifiedTypeName name="example.thread4.ThreadSafety"/>
 </qualifiedTypeNameHistroy>
