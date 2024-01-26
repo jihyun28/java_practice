@@ -4,7 +4,7 @@ public class ExtendsExMain {
 
 	public static void main(String[] args) {
 		Parent parent = new Parent(); // 부모타입 변수에 부모타입 객체 대입
-		Parent parentTypeChild = new Child(); // 부모타이 변수에 자식타입 객체 대입, 다형성
+		Parent parentTypeChild = new Child(); // 부모타입 변수에 자식타입 객체 대입, 다형성
 		Child child = new Child();
 		
 		parent.process();

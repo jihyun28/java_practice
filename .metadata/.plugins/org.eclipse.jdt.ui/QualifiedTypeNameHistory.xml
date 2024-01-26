@@ -18,4 +18,11 @@
     <fullyQualifiedTypeName name="api.lang.object.ObjectInformation"/>
     <fullyQualifiedTypeName name="example.thread3.MiddleChef"/>
     <fullyQualifiedTypeName name="example.thread4.ThreadSafety"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="oopstart.without_interface.RealMessageSender"/>
+    <fullyQualifiedTypeName name="inheritance.extend.Parent"/>
+    <fullyQualifiedTypeName name="abstractlayer.interface_.ImplementsClass"/>
+    <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="enum_.basic.CalculateCommand"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
 </qualifiedTypeNameHistroy>
